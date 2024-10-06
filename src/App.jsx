@@ -1,14 +1,14 @@
 import { Canvas } from '@react-three/fiber'
 import './App.css'
+import { OrbitControls, useTexture } from '@react-three/drei';
+import * as THREE from 'three';
 
 
 function App() {
   return (
     <Canvas>
-      <mesh>
-        <boxGeometry />
-        <meshBasicMaterial />
-      </mesh>
+      <OrbitControls />
+      <ambientLight />
     </Canvas>
   )
 }
