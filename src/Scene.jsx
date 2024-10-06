@@ -5,8 +5,8 @@ import * as THREE from 'three';
 
     
 const Scene = () => {
-    let text = useTexture("./image.png");
-    text.needsUpdate = true;
+    let tex = useTexture("./image.png");
+    
 
     return (
         <mesh>
