@@ -1,14 +1,14 @@
 import { Canvas } from '@react-three/fiber'
 import './App.css'
-import { OrbitControls, useTexture } from '@react-three/drei';
-import * as THREE from 'three';
-
+import { OrbitControls } from '@react-three/drei';
+import Cyl from './Cyl';
 
 function App() {
   return (
     <Canvas>
       <OrbitControls />
       <ambientLight />
+      <Cyl/>
     </Canvas>
   )
 }
