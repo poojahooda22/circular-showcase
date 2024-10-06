@@ -1,6 +1,6 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLi
+This template provides a minimal setup to get React working in Vite with HMR and some ESL
 
 Currently, two official plugins
 
