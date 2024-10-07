@@ -16,7 +16,7 @@ function App() {
         luminanceThreshold={0} // luminance threshold. Raise this value to mask out darker elements in the scene.
         luminanceSmoothing={0} // smoothness of the luminance threshold. Range is [0, 1]
         mipmapBlur
-      />
+        />
       </EffectComposer>
     </Canvas>
   )
