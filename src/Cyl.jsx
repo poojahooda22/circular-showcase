@@ -7,7 +7,7 @@ import * as THREE from 'three';
 
     
 const Cyl = () => {
-    let tex = useTexture("./img4.png");
+    let tex = useTexture("./Group3.png");
     let cyl = useRef(null);
     useFrame((state, delta) => {
         cyl.current.rotation.y += delta;
