@@ -1,4 +1,4 @@
 # React + Vite
 This template provides a minimal setup to get React working i
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/bl
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-eactswc) use [SWC](htp//w/)
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-eactswc) use [SWC](hp//w/)
